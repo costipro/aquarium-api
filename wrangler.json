@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "aquarium-api",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "53366067-69ec-4ab5-bce2-9c0464684fcf",
+			"database_name": "aquarium_db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
